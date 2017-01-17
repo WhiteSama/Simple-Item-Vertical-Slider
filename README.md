@@ -2,6 +2,8 @@
 Simple Item Vertical Slider for slide menu item or other element (e.g. like news item, image and other) vertically.
 
 #EXAMPLE STRUCTURE
+####See <a href="https://whitesama.github.io/Simple-Item-Vertical-Slider/index.html" target="_blank">DEMO</a>
+
 ##HTML
 ```html
 <div class="articleList">
@@ -36,4 +38,4 @@ var down = control.find('.down'); /* -- down button */
 
 All of this variables may be change
 
-###AS IS
+####AS IS
