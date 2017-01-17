@@ -27,6 +27,7 @@ For init plugin need manually change item variables:
 var list = $('.articleList'); /* -- block container */
 var list_items = list.find('.items'); /* -- items container */
 var list_item = list_items.find('.item'); /* -- item destination */
+var show_item = 5; /* -- how many item will be showed */
 
 var control = list.find('.control'); /* -- controls container */
 var up = control.find('.up'); /* -- up button */
